@@ -1,6 +1,10 @@
 [
   {
     "name": "Test",
-    "api_key": "key"
+    "api_key": "key",
+    "topics": [
+      "announcements",
+      "test"
+    ]
   }
 ]
